@@ -1,7 +1,7 @@
 # hello-world
 
-te
+test
 
 ffnewff
 
-asdf
+testing
